@@ -2,3 +2,15 @@
 *.tmp
 *.bak
 *.disabled
+# Client-side mods
+BetterF3-*.jar
+Essential_*.jar
+EuphoriaPatcher-*.jar
+MouseTweaks-*.jar
+continuity-*.jar
+dynamic-fps-*.jar
+dynamiccrosshair-*.jar
+iris-*.jar
+journeymap-*.jar
+modmenu-*.jar
+.index/accessories.pw.toml
